@@ -1,0 +1,8 @@
+tests/
+client/
+build/
+dist/
+env/
+**/__pycache__
+*.pyi
+*.pyc
