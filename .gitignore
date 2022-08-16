@@ -1,8 +1,9 @@
 tests/
 client/
-build/
-dist/
-env/
+public/bundle.*
+app/node_modules/
+app/.vscode/
+pyenv/
 **/__pycache__
 *.pyi
 *.pyc
