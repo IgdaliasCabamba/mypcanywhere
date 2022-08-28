@@ -19,8 +19,19 @@
     "@fortawesome/free-solid-svg-icons": "^6.1.2",
     "bootstrap": "^5.2.0",
     "flex-splitter-directive": "^0.4.0",
+    "socket.io": "^4.5.1",
+    "socket.io-client": "^4.5.1",
     "svelte-fa": "^3.0.3",
+    "svelte-resize-observer": "^2.0.0",
     "svelte-routing": "^1.6.0",
-    "sveltestrap": "^5.9.0"
+    "sveltestrap": "^5.9.0",
+    "xterm": "^4.19.0",
+    "xterm-addon-fit": "^0.5.0",
+    "xterm-addon-ligatures": "^0.5.3",
+    "xterm-addon-search": "^0.9.0",
+    "xterm-addon-serialize": "^0.7.0",
+    "xterm-addon-unicode11": "^0.3.0",
+    "xterm-addon-web-links": "^0.6.0",
+    "xterm-addon-webgl": "^0.12.0"
   }
 }
