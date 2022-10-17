@@ -1,4 +1,5 @@
 <script>
+	//https://github.com/xtermjs/xterm.js/issues/3887
 	import { onMount } from 'svelte';
 	import 'xterm/css/xterm.css';
 	import * as xterm from 'xterm';
